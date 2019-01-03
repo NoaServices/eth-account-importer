@@ -1,1 +1,1 @@
-# eth-account-importer
+# @tsiry/eth-account-importer
